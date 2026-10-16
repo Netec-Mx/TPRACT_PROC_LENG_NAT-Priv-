@@ -1466,7 +1466,7 @@ Una mejora posterior, ya fuera de este taller, puede ser reunir más ejemplos, r
 
 ## Si quieres leer más
 
-- [Clasificación de texto en scikit-learn](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
+
 - [TfidfVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
 - [Vecinos más cercanos](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NearestNeighbors.html)
 - [PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
