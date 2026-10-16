@@ -10,7 +10,7 @@
 | Carpeta | `C:\Laboratorio\nlp-banca-lab` |
 | Tu archivo de trabajo | `notebooks\01_clasificacion_busqueda_mensajes_bancarios.ipynb` |
 
-El equipo ya tiene los programas, las librerías y los mensajes de práctica. Quien prepara la sala usa [Prerequisitos.md](Prerequisitos.md). Tú abres Visual Studio Code y sigues esta guía.
+El equipo ya tiene los programas, las librerías y los mensajes de práctica. Quien prepara la sala usa [Prerrequisitos.md](Prerrequisitos.md). Tú abres Visual Studio Code y sigues esta guía.
 
 Los mensajes son inventados. Durante el taller usa solo ese archivo. Números de tarjeta, cuentas, documentos y correos reales se quedan fuera del cuaderno, de las capturas y de los archivos que guardes.
 
