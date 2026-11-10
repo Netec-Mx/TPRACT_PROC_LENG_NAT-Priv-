@@ -1,0 +1,185 @@
+message_id,message,category
+1,No reconozco un pago de veinte mil pesos realizado en el supermercado,cargo_no_reconocido
+2,La transferencia de veinte mil pesos enviada a mi hermano por la aplicación sigue pendiente,transferencia_pendiente
+3,No puedo iniciar sesión en la aplicación,problema_de_acceso
+4,Quiero bloquear mi tarjeta porque la perdí. Lo reporto en la aplicación,bloqueo_tarjeta
+5,Por qué me cobraron una comisión de veinte mil pesos en la aplicación,comision
+6,Creo que hay fraude: aparece un movimiento de veinte mil pesos en el supermercado que no realicé,fraude
+7,Aparece una compra con mi tarjeta en la farmacia por cuarenta y cinco mil pesos que yo no autoricé,cargo_no_reconocido
+8,Envié cuarenta y cinco mil pesos a mi arrendador y el dinero todavía no llega a la página web,transferencia_pendiente
+9,Olvidé la clave y no logro entrar a la página web,problema_de_acceso
+10,Me robaron la tarjeta y necesito bloquearla ya desde la página web,bloqueo_tarjeta
+11,Aparece una cuota de manejo de cuarenta y cinco mil pesos y quiero la razón del cobro,comision
+12,Sospecho suplantación. Hay un cargo de cuarenta y cinco mil pesos en la farmacia y yo no fui,fraude
+13,Hay un cargo desconocido de ochenta mil pesos y no sé de qué se trata,cargo_no_reconocido
+14,El giro de ochenta mil pesos para un proveedor aparece pendiente desde ayer en la sucursal virtual,transferencia_pendiente
+15,La aplicación no abre y no puedo ingresar por la sucursal virtual,problema_de_acceso
+16,Perdí la tarjeta de débito y pido el bloqueo por la sucursal virtual,bloqueo_tarjeta
+17,Me descontaron una comisión de mantenimiento de ochenta mil pesos en la sucursal virtual,comision
+18,Alerta de seguridad: un movimiento raro de ochenta mil pesos en una tienda en línea,fraude
+19,Vi un débito en mi tarjeta por ciento veinte mil pesos en el restaurante y no fui yo,cargo_no_reconocido
+20,Hice una transferencia de ciento veinte mil pesos a la universidad y continúa en proceso,transferencia_pendiente
+21,El código de verificación no llega y no entro a el celular,problema_de_acceso
+22,Solicito bloquear la tarjeta de crédito. La extravié y aviso por el celular,bloqueo_tarjeta
+23,No entiendo el cobro de comisión por ciento veinte mil pesos que veo en el celular,comision
+24,Alguien más pudo usar mi producto. Veo ciento veinte mil pesos en el restaurante,fraude
+25,Me descontaron quince mil pesos y no recuerdo esa compra en la estación de servicio,cargo_no_reconocido
+26,El envío de quince mil pesos hacia mi mamá no se ha completado en la oficina virtual,transferencia_pendiente
+27,Mi usuario no funciona para entrar a la oficina virtual,problema_de_acceso
+28,No encuentro mi tarjeta y quiero que quede bloqueada en la oficina virtual,bloqueo_tarjeta
+29,Quiero saber por qué hay una cuota mensual de quince mil pesos,comision
+30,Reporto un posible fraude por quince mil pesos registrado en la estación de servicio,fraude
+31,No acepto el cobro de doscientos cincuenta mil pesos que figura en una aplicación de transporte,cargo_no_reconocido
+32,Mi transferencia de doscientos cincuenta mil pesos a un amigo no ha llegado,transferencia_pendiente
+33,Intento ingresar a la aplicación y la página rechaza la clave,problema_de_acceso
+34,Por favor bloquea mi tarjeta. La perdí y escribo desde la aplicación,bloqueo_tarjeta
+35,La comisión de doscientos cincuenta mil pesos en la aplicación no estaba en lo que yo esperaba pagar,comision
+36,Hay movimientos extraños de doscientos cincuenta mil pesos en una aplicación de transporte y temo que sea fraude,fraude
+37,No reconozco un pago de nueve mil pesos realizado en el almacén,cargo_no_reconocido
+38,La transferencia de nueve mil pesos enviada a mi hijo por la página web sigue pendiente,transferencia_pendiente
+39,No puedo iniciar sesión en la página web,problema_de_acceso
+40,Quiero bloquear mi tarjeta porque la perdí. Lo reporto en la página web,bloqueo_tarjeta
+41,Por qué me cobraron una comisión de nueve mil pesos en la página web,comision
+42,Creo que hay fraude: aparece un movimiento de nueve mil pesos en el almacén que no realicé,fraude
+43,Aparece una compra con mi tarjeta en una página de ropa por sesenta mil pesos que yo no autoricé,cargo_no_reconocido
+44,Envié sesenta mil pesos a un comercio y el dinero todavía no llega a la sucursal virtual,transferencia_pendiente
+45,Olvidé la clave y no logro entrar a la sucursal virtual,problema_de_acceso
+46,Me robaron la tarjeta y necesito bloquearla ya desde la sucursal virtual,bloqueo_tarjeta
+47,Aparece una cuota de manejo de sesenta mil pesos y quiero la razón del cobro,comision
+48,Sospecho suplantación. Hay un cargo de sesenta mil pesos en una página de ropa y yo no fui,fraude
+49,Hay un cargo desconocido de treinta y cinco mil pesos y no sé de qué se trata,cargo_no_reconocido
+50,El giro de treinta y cinco mil pesos para mi cuenta de ahorros aparece pendiente desde ayer en el celular,transferencia_pendiente
+51,La aplicación no abre y no puedo ingresar por el celular,problema_de_acceso
+52,Perdí la tarjeta de débito y pido el bloqueo por el celular,bloqueo_tarjeta
+53,Me descontaron una comisión de mantenimiento de treinta y cinco mil pesos en el celular,comision
+54,Alerta de seguridad: un movimiento raro de treinta y cinco mil pesos en el cine,fraude
+55,Vi un débito en mi tarjeta por quinientos mil pesos en una suscripción digital y no fui yo,cargo_no_reconocido
+56,Hice una transferencia de quinientos mil pesos a un familiar y continúa en proceso,transferencia_pendiente
+57,El código de verificación no llega y no entro a la oficina virtual,problema_de_acceso
+58,Solicito bloquear la tarjeta de crédito. La extravié y aviso por la oficina virtual,bloqueo_tarjeta
+59,No entiendo el cobro de comisión por quinientos mil pesos que veo en la oficina virtual,comision
+60,Alguien más pudo usar mi producto. Veo quinientos mil pesos en una suscripción digital,fraude
+61,Me descontaron veinte mil pesos y no recuerdo esa compra en el supermercado,cargo_no_reconocido
+62,El envío de veinte mil pesos hacia mi hermano no se ha completado en la aplicación,transferencia_pendiente
+63,Mi usuario no funciona para entrar a la aplicación,problema_de_acceso
+64,No encuentro mi tarjeta y quiero que quede bloqueada en la aplicación,bloqueo_tarjeta
+65,Quiero saber por qué hay una cuota mensual de veinte mil pesos,comision
+66,Reporto un posible fraude por veinte mil pesos registrado en el supermercado,fraude
+67,No acepto el cobro de cuarenta y cinco mil pesos que figura en la farmacia,cargo_no_reconocido
+68,Mi transferencia de cuarenta y cinco mil pesos a mi arrendador no ha llegado,transferencia_pendiente
+69,Intento ingresar a la página web y la página rechaza la clave,problema_de_acceso
+70,Por favor bloquea mi tarjeta. La perdí y escribo desde la página web,bloqueo_tarjeta
+71,La comisión de cuarenta y cinco mil pesos en la página web no estaba en lo que yo esperaba pagar,comision
+72,Hay movimientos extraños de cuarenta y cinco mil pesos en la farmacia y temo que sea fraude,fraude
+73,No reconozco un pago de ochenta mil pesos realizado en una tienda en línea,cargo_no_reconocido
+74,La transferencia de ochenta mil pesos enviada a un proveedor por la sucursal virtual sigue pendiente,transferencia_pendiente
+75,No puedo iniciar sesión en la sucursal virtual,problema_de_acceso
+76,Quiero bloquear mi tarjeta porque la perdí. Lo reporto en la sucursal virtual,bloqueo_tarjeta
+77,Por qué me cobraron una comisión de ochenta mil pesos en la sucursal virtual,comision
+78,Creo que hay fraude: aparece un movimiento de ochenta mil pesos en una tienda en línea que no realicé,fraude
+79,Aparece una compra con mi tarjeta en el restaurante por ciento veinte mil pesos que yo no autoricé,cargo_no_reconocido
+80,Envié ciento veinte mil pesos a la universidad y el dinero todavía no llega a el celular,transferencia_pendiente
+81,Olvidé la clave y no logro entrar a el celular,problema_de_acceso
+82,Me robaron la tarjeta y necesito bloquearla ya desde el celular,bloqueo_tarjeta
+83,Aparece una cuota de manejo de ciento veinte mil pesos y quiero la razón del cobro,comision
+84,Sospecho suplantación. Hay un cargo de ciento veinte mil pesos en el restaurante y yo no fui,fraude
+85,Hay un cargo desconocido de quince mil pesos y no sé de qué se trata,cargo_no_reconocido
+86,El giro de quince mil pesos para mi mamá aparece pendiente desde ayer en la oficina virtual,transferencia_pendiente
+87,La aplicación no abre y no puedo ingresar por la oficina virtual,problema_de_acceso
+88,Perdí la tarjeta de débito y pido el bloqueo por la oficina virtual,bloqueo_tarjeta
+89,Me descontaron una comisión de mantenimiento de quince mil pesos en la oficina virtual,comision
+90,Alerta de seguridad: un movimiento raro de quince mil pesos en la estación de servicio,fraude
+91,Vi un débito en mi tarjeta por doscientos cincuenta mil pesos en una aplicación de transporte y no fui yo,cargo_no_reconocido
+92,Hice una transferencia de doscientos cincuenta mil pesos a un amigo y continúa en proceso,transferencia_pendiente
+93,El código de verificación no llega y no entro a la aplicación,problema_de_acceso
+94,Solicito bloquear la tarjeta de crédito. La extravié y aviso por la aplicación,bloqueo_tarjeta
+95,No entiendo el cobro de comisión por doscientos cincuenta mil pesos que veo en la aplicación,comision
+96,Alguien más pudo usar mi producto. Veo doscientos cincuenta mil pesos en una aplicación de transporte,fraude
+97,Me descontaron nueve mil pesos y no recuerdo esa compra en el almacén,cargo_no_reconocido
+98,El envío de nueve mil pesos hacia mi hijo no se ha completado en la página web,transferencia_pendiente
+99,Mi usuario no funciona para entrar a la página web,problema_de_acceso
+100,No encuentro mi tarjeta y quiero que quede bloqueada en la página web,bloqueo_tarjeta
+101,Quiero saber por qué hay una cuota mensual de nueve mil pesos,comision
+102,Reporto un posible fraude por nueve mil pesos registrado en el almacén,fraude
+103,No acepto el cobro de sesenta mil pesos que figura en una página de ropa,cargo_no_reconocido
+104,Mi transferencia de sesenta mil pesos a un comercio no ha llegado,transferencia_pendiente
+105,Intento ingresar a la sucursal virtual y la página rechaza la clave,problema_de_acceso
+106,Por favor bloquea mi tarjeta. La perdí y escribo desde la sucursal virtual,bloqueo_tarjeta
+107,La comisión de sesenta mil pesos en la sucursal virtual no estaba en lo que yo esperaba pagar,comision
+108,Hay movimientos extraños de sesenta mil pesos en una página de ropa y temo que sea fraude,fraude
+109,No reconozco un pago de treinta y cinco mil pesos realizado en el cine,cargo_no_reconocido
+110,La transferencia de treinta y cinco mil pesos enviada a mi cuenta de ahorros por el celular sigue pendiente,transferencia_pendiente
+111,No puedo iniciar sesión en el celular,problema_de_acceso
+112,Quiero bloquear mi tarjeta porque la perdí. Lo reporto en el celular,bloqueo_tarjeta
+113,Por qué me cobraron una comisión de treinta y cinco mil pesos en el celular,comision
+114,Creo que hay fraude: aparece un movimiento de treinta y cinco mil pesos en el cine que no realicé,fraude
+115,Aparece una compra con mi tarjeta en una suscripción digital por quinientos mil pesos que yo no autoricé,cargo_no_reconocido
+116,Envié quinientos mil pesos a un familiar y el dinero todavía no llega a la oficina virtual,transferencia_pendiente
+117,Olvidé la clave y no logro entrar a la oficina virtual,problema_de_acceso
+118,Me robaron la tarjeta y necesito bloquearla ya desde la oficina virtual,bloqueo_tarjeta
+119,Aparece una cuota de manejo de quinientos mil pesos y quiero la razón del cobro,comision
+120,Sospecho suplantación. Hay un cargo de quinientos mil pesos en una suscripción digital y yo no fui,fraude
+121,Hay un cargo desconocido de veinte mil pesos y no sé de qué se trata,cargo_no_reconocido
+122,El giro de veinte mil pesos para mi hermano aparece pendiente desde ayer en la aplicación,transferencia_pendiente
+123,La aplicación no abre y no puedo ingresar por la aplicación,problema_de_acceso
+124,Perdí la tarjeta de débito y pido el bloqueo por la aplicación,bloqueo_tarjeta
+125,Me descontaron una comisión de mantenimiento de veinte mil pesos en la aplicación,comision
+126,Alerta de seguridad: un movimiento raro de veinte mil pesos en el supermercado,fraude
+127,Vi un débito en mi tarjeta por cuarenta y cinco mil pesos en la farmacia y no fui yo,cargo_no_reconocido
+128,Hice una transferencia de cuarenta y cinco mil pesos a mi arrendador y continúa en proceso,transferencia_pendiente
+129,El código de verificación no llega y no entro a la página web,problema_de_acceso
+130,Solicito bloquear la tarjeta de crédito. La extravié y aviso por la página web,bloqueo_tarjeta
+131,No entiendo el cobro de comisión por cuarenta y cinco mil pesos que veo en la página web,comision
+132,Alguien más pudo usar mi producto. Veo cuarenta y cinco mil pesos en la farmacia,fraude
+133,Me descontaron ochenta mil pesos y no recuerdo esa compra en una tienda en línea,cargo_no_reconocido
+134,El envío de ochenta mil pesos hacia un proveedor no se ha completado en la sucursal virtual,transferencia_pendiente
+135,Mi usuario no funciona para entrar a la sucursal virtual,problema_de_acceso
+136,No encuentro mi tarjeta y quiero que quede bloqueada en la sucursal virtual,bloqueo_tarjeta
+137,Quiero saber por qué hay una cuota mensual de ochenta mil pesos,comision
+138,Reporto un posible fraude por ochenta mil pesos registrado en una tienda en línea,fraude
+139,No acepto el cobro de ciento veinte mil pesos que figura en el restaurante,cargo_no_reconocido
+140,Mi transferencia de ciento veinte mil pesos a la universidad no ha llegado,transferencia_pendiente
+141,Intento ingresar a el celular y la página rechaza la clave,problema_de_acceso
+142,Por favor bloquea mi tarjeta. La perdí y escribo desde el celular,bloqueo_tarjeta
+143,La comisión de ciento veinte mil pesos en el celular no estaba en lo que yo esperaba pagar,comision
+144,Hay movimientos extraños de ciento veinte mil pesos en el restaurante y temo que sea fraude,fraude
+145,No reconozco un pago de quince mil pesos realizado en la estación de servicio,cargo_no_reconocido
+146,La transferencia de quince mil pesos enviada a mi mamá por la oficina virtual sigue pendiente,transferencia_pendiente
+147,No puedo iniciar sesión en la oficina virtual,problema_de_acceso
+148,Quiero bloquear mi tarjeta porque la perdí. Lo reporto en la oficina virtual,bloqueo_tarjeta
+149,Por qué me cobraron una comisión de quince mil pesos en la oficina virtual,comision
+150,Creo que hay fraude: aparece un movimiento de quince mil pesos en la estación de servicio que no realicé,fraude
+151,Aparece una compra con mi tarjeta en una aplicación de transporte por doscientos cincuenta mil pesos que yo no autoricé,cargo_no_reconocido
+152,Envié doscientos cincuenta mil pesos a un amigo y el dinero todavía no llega a la aplicación,transferencia_pendiente
+153,Olvidé la clave y no logro entrar a la aplicación,problema_de_acceso
+154,Me robaron la tarjeta y necesito bloquearla ya desde la aplicación,bloqueo_tarjeta
+155,Aparece una cuota de manejo de doscientos cincuenta mil pesos y quiero la razón del cobro,comision
+156,Sospecho suplantación. Hay un cargo de doscientos cincuenta mil pesos en una aplicación de transporte y yo no fui,fraude
+157,Hay un cargo desconocido de nueve mil pesos y no sé de qué se trata,cargo_no_reconocido
+158,El giro de nueve mil pesos para mi hijo aparece pendiente desde ayer en la página web,transferencia_pendiente
+159,La aplicación no abre y no puedo ingresar por la página web,problema_de_acceso
+160,Perdí la tarjeta de débito y pido el bloqueo por la página web,bloqueo_tarjeta
+161,Me descontaron una comisión de mantenimiento de nueve mil pesos en la página web,comision
+162,Alerta de seguridad: un movimiento raro de nueve mil pesos en el almacén,fraude
+163,No reconozco un cobro y tampoco sé si entraron a mi cuenta,cargo_no_reconocido
+164,Veo un cargo en la tarjeta y la aplicación no me deja revisar,cargo_no_reconocido
+165,Hay un débito raro y quiero que revisen si es comisión o fraude,cargo_no_reconocido
+166,La transferencia no llega y además veo un cobro que no ubico,transferencia_pendiente
+167,"Envié el dinero, sigue pendiente y no puedo entrar a mirar el estado",transferencia_pendiente
+168,El giro está pendiente y la tarjeta aparece con un movimiento extraño,transferencia_pendiente
+169,No puedo entrar a la aplicación y veo un cargo que no reconozco,problema_de_acceso
+170,La clave no sirve y quiero bloquear la tarjeta por si acaso,problema_de_acceso
+171,No ingreso al banco y hay una comisión nueva en la cuenta,problema_de_acceso
+172,Bloqueen la tarjeta porque hay un cargo que no reconozco,bloqueo_tarjeta
+173,Perdí la tarjeta y también falló el ingreso a la aplicación,bloqueo_tarjeta
+174,Quiero bloquear la tarjeta: hay un movimiento que parece fraude,bloqueo_tarjeta
+175,Me cobraron una comisión y no reconozco ese valor en la tarjeta,comision
+176,La cuota de manejo parece un cargo fraudulento,comision
+177,Por qué hay una comisión si la transferencia ni siquiera ha llegado,comision
+178,No reconozco un pago y creo que otra persona entró a la cuenta,fraude
+179,Hay un movimiento extraño y no puedo iniciar sesión,fraude
+180,Sospecho fraude en la tarjeta y quiero bloquearla,fraude
+181,No reconozco un pago de veinte mil pesos realizado en el supermercado,cargo_no_reconocido
+182,No encuentro mi tarjeta y quiero que quede bloqueada en la oficina virtual,bloqueo_tarjeta
+183,,cargo_no_reconocido
+184,el la de y que en con por,problema_de_acceso
